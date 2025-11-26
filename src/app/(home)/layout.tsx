@@ -12,5 +12,7 @@ const Layout = ({ children}: LayoutProps) => {
     );
 };
 
+// export const dynamic = "force-dynamic";
+
 export default Layout;
 
