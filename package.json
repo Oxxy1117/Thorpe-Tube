@@ -30,7 +30,7 @@
     "drizzle-orm": "0.39.0",
     "kill-port": "^2.0.1",
     "lucide-react": "^0.539.0",
-    "next": "15.1.6",
+    "next": "15.1.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sharp": "^0.34.3",
